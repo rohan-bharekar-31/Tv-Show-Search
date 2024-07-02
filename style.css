@@ -39,7 +39,6 @@ button{
     }
     .card{
         width: 210px;
-        background-color: pink;
         text-overflow: ellipsis;
     }
     .info{
